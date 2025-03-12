@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://diegomanildo.github.io/shopcart/"
+  base: "https://diegomanildo.github.io/Shopping-Cart/"
 })

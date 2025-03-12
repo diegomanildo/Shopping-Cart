@@ -4,7 +4,7 @@ Shopping Cart proyect using React + Vite
 
 ## 🌍 Website
 Try the game online here:  
-[🔗 Shopping Cart](https://diegomanildo.github.io/shopcart/)
+[🔗 Shopping Cart](https://diegomanildo.github.io/Shopping-Cart/)
 
 ## 🤝 Contributions
 Contributions are welcome! If you want to improve the game or add new features:
